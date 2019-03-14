@@ -1,7 +1,9 @@
 {
     "Name": "Bilingualism and the brain",
     "License": "",
-    "Authors": [],
+    "Authors": [
+        "Vincent DeLuca"
+    ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "",
