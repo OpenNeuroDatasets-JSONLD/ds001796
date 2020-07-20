@@ -1,8 +1,10 @@
 {
-    "Name": "Bilingualism and the brain", 
-    "BIDSVersion": "1.1.0", 
-    "Authors" : [
-		"Vincent DeLuca",
-		"Christos Pliatsikas" 
-]
+    "Name": "Bilingualism and the brain",
+    "BIDSVersion": "1.1.0",
+    "Authors": [
+        "Vincent DeLuca",
+        "Christos Pliatsikas"
+    ],
+    "DatasetDOI": "10.18112/openneuro.ds001796.v1.3.1",
+    "License": "CC0"
 }
